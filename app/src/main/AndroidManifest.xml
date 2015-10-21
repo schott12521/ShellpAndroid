@@ -36,7 +36,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ScheduleActivity"
+            android:name=".ScheduleFragment"
             android:label="@string/title_activity_schedule" >
         </activity>
         <activity

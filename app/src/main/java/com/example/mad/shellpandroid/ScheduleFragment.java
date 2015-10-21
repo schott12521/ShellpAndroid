@@ -9,7 +9,7 @@ import android.view.MenuItem;
 import android.widget.Toast;
 
 
-public class ScheduleActivity extends ActionBarActivity {
+public class ScheduleFragment extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
